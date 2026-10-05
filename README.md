@@ -6,8 +6,8 @@
   - Benjamín Nicuñir
   - Mariano Lara
   
-- ODS Seleccionado: 12 - Producción y Consumo Responsables
-- Problema a resolver: Pérdida de semillas orgánicas, cultivos caseros y el desperdicio de agua 
+- **ODS Seleccionado**: 12 - Producción y Consumo Responsables
+- **Problema a resolver**: Pérdida de semillas orgánicas, cultivos caseros y el desperdicio de agua 
 
 ### Descripción del Proyecto
 Se propone un sistema de diagnóstico de suelo alimentado por energía solar y
