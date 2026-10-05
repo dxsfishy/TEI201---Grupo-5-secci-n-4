@@ -1,10 +1,10 @@
 ### Información del Equipo
  Integrantes:
-  - Roberto Carabantes 
-  - Martín León
-  - Pedro Monserrat
-  - Benjamín Nicuñir
-  - Mariano Lara
+  - Roberto Carabantes Rol: 
+  - Martín León        Rol: 
+  - Pedro Monserrat    Rol: 
+  - Benjamín Nicuñir   Rol: 
+  - Mariano Lara       Rol:
 --- 
  
 - **ODS Seleccionado**: 12 - Producción y Consumo Responsables
