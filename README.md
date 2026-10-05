@@ -1,10 +1,17 @@
 ### Información del Equipo
  Integrantes:
-  - Roberto Carabantes Rol: 
-  - Martín León        Rol: 
-  - Pedro Monserrat    Rol: 
-  - Benjamín Nicuñir   Rol: 
-  - Mariano Lara       Rol:
+| Integrantes     | Cantidad | Precio |
+| ------------ | -------- | ------ |
+| Roberto Carabantes  | 10       | $5.00  |
+| Martín León     | 5        | $3.50  |
+| Mariano Lara  | 12       | $4.00  |
+| Pedro Monserrat
+|Benjamín Nicuñir
+  - Roberto Carabantes  
+  - Martín León         
+  - Pedro Monserrat     
+  - Benjamín Nicuñir   
+  - Mariano Lara       
 --- 
  
 - **ODS Seleccionado**: 12 - Producción y Consumo Responsables
