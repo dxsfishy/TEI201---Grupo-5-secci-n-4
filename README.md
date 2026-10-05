@@ -5,11 +5,11 @@
  
 | Integrantes     | Rol | **GitHub** |
 | ------------ | -------- | ------- |
-| Roberto Carabantes  | 10       | dxsfishy  |
-| Martín León     | 5        | martinch0-1  |
-| Mariano Lara  | 12       | SrCraneo  |
-| Pedro Monserrat |  ..... | pedrinho-qw
-|Benjamín Nicuñir | ...... | baaingr
+| Roberto Carabantes  | Hardware       | dxsfishy  |
+| Martín León     | Iteraciones y pruebas        | martinch0-1  |
+| Mariano Lara  | Diseño 3D       | SrCraneo  |
+| Pedro Monserrat |  Software | pedrinho-qw
+|Benjamín Nicuñir | Diseño 3D | baaingr
       
 --- 
  
