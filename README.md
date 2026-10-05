@@ -1,13 +1,13 @@
 ### Información del Equipo
-- **Integrantes:**
+ Integrantes:
   - Roberto Carabantes 
   - Martín León
   - Pedro Monserrat
   - Benjamín Nicuñir
   - Mariano Lara
   
-- **ODS Seleccionado: 12 - Producción y Consumo Responsables
-- **Problema a resolver: Pérdida de semillas orgánicas, cultivos caseros y el desperdicio de agua 
+- ODS Seleccionado: 12 - Producción y Consumo Responsables
+- Problema a resolver: Pérdida de semillas orgánicas, cultivos caseros y el desperdicio de agua 
 
 ### Descripción del Proyecto
 Se propone un sistema de diagnóstico de suelo alimentado por energía solar y
@@ -16,9 +16,9 @@ humedad y pH insertados directamente en el huerto. Indicará al usuario si el su
 está apto para el cultivo o no.
 
 ### Estado del Proyecto
-- **Versión actual:** v3.0
-- **Última actualización:** [Fecha]
-- **Estado:** Prototipo básico (Incluye el sensor de humedad)
+- Versión actual :v1.0
+- Última actualización: 05/10/2026
+- Estado: Prototipo básico (Incluye el sensor de humedad)
 
 ---
 
