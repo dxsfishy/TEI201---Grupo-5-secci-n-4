@@ -1,3 +1,6 @@
+***Entregable Taller de diseño***
+-----------------------------------
+
 ### Información del Equipo
  
 | Integrantes     | Rol | **GitHub** |
