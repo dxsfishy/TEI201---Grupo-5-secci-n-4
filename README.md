@@ -1,17 +1,13 @@
 ### Información del Equipo
- Integrantes:
-| Integrantes     | Cantidad | Precio |
-| ------------ | -------- | ------ |
-| Roberto Carabantes  | 10       | $5.00  |
-| Martín León     | 5        | $3.50  |
-| Mariano Lara  | 12       | $4.00  |
-| Pedro Monserrat
-|Benjamín Nicuñir
-  - Roberto Carabantes  
-  - Martín León         
-  - Pedro Monserrat     
-  - Benjamín Nicuñir   
-  - Mariano Lara       
+ 
+| Integrantes     | Rol | **GitHub** |
+| ------------ | -------- | ------- |
+| Roberto Carabantes  | 10       | dxsfishy  |
+| Martín León     | 5        | martinch0-1  |
+| Mariano Lara  | 12       | SrCraneo  |
+| Pedro Monserrat |  ..... | pedrinho-qw
+|Benjamín Nicuñir | ...... | baaingr
+      
 --- 
  
 - **ODS Seleccionado**: 12 - Producción y Consumo Responsables
