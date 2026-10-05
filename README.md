@@ -29,15 +29,11 @@ está apto para el cultivo o no.
 
 ---
 
-##  Estructura del Repositorio
-```
-├── hardware/          # Circuitos, esquemas y BOM
-├── software/          # Código Arduino y librerías
-├── diseno_3d/        # Modelos Fusion 360 y renders
-├── testing/          # Validación con usuarios
-├── documentacion/    # Reportes y presentación
-└── iteraciones/      # Historial de versiones
-```
+##  Arquitectura del prototipo
+1. ESP32
+2. Sensor de humedad  de sueo capacitivo voltio 1.2
+3. Sensor de temperatura de suelo
+4. Sensor de pH
 
 ---
 
@@ -53,37 +49,7 @@ está apto para el cultivo o no.
 2. Instalar librerías (ver `software/librerias/`)
 3. Cargar código en ESP32/Arduino
 4. [Pasos adicionales]
-
----
-
-##  Checklist de Entrega
-
-### Hardware ✓
-- [ ] Esquema del circuito (Fritzing/Wokwi)
-- [ ] BOM completo
-- [ ] Fotos de alta resolución
-
-### Software ✓
-- [ ] Código comentado
-- [ ] Librerías documentadas
-- [ ] Manual de instalación
-
-### Diseño 3D ✓
-- [ ] Archivos Fusion 360 (.f3d) con TODOS los componentes
-- [ ] Renders de alta calidad (1+ ángulos)
-- [ ] Planos técnicos
-
-### Testing ✓
-- [ ] Reporte de testing con usuarios (mín. 5)
-- [ ] Evidencias fotográficas/videos
-- [ ] Datos cuantitativos
-
-### Documentación ✓
-- [ ] Reporte final (máx. 15 páginas)
-- [ ] Presentación (10 min)
-
----
-
+   
 
 ---
 
