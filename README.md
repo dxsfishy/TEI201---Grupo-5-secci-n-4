@@ -1,7 +1,7 @@
-***Entregable Taller de diseño***
+***Entregable Taller de diseño grupo 5***
 -----------------------------------
 
-### Información del Equipo
+### Equipo
  
 | Integrantes     | Rol | **GitHub** |
 | ------------ | -------- | ------- |
