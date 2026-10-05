@@ -1,9 +1,9 @@
 ### Información del Equipo
 - **Integrantes:**
-  - Nombre 1 - Rol 1
-  - Nombre 2 - Rol 2
-  - Nombre 3 - Rol 3
-  - Nombre 4 - Rol 4
+  - Roberto Carabantes 
+  - Martín León
+  - Pedro Monserrat
+  - Benjamín Nicuñir
   
 - **ODS Seleccionado:** [Número y nombre]
 - **Problema a resolver:** [Descripción breve]
