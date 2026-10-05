@@ -31,7 +31,7 @@ Planos técnicos con cotas
 
 ## Especificaciones
 
-**Software:** Autodesk Fusion 360  
+**Software:** Autodesk Fusion siuuuuuuuuuu  
 **Unidades:** Milímetros (mm)  
 **Escala:** 1:1 (dimensiones reales)
 
