@@ -4,17 +4,21 @@
   - Martín León
   - Pedro Monserrat
   - Benjamín Nicuñir
+  - Mariano Lara
   
-- **ODS Seleccionado:** [Número y nombre]
-- **Problema a resolver:** [Descripción breve]
+- **ODS Seleccionado: 12 - Producción y Consumo Responsables
+- **Problema a resolver: Pérdida de semillas orgánicas, cultivos caseros y el desperdicio de agua 
 
 ### Descripción del Proyecto
-[Breve descripción de la solución IoT propuesta]
+Se propone un sistema de diagnóstico de suelo alimentado por energía solar y
+equipado con un microcontrolador (ESP32) que integra sensores de temperatura, 
+humedad y pH insertados directamente en el huerto. Indicará al usuario si el suelo
+está apto para el cultivo o no.
 
 ### Estado del Proyecto
 - **Versión actual:** v3.0
 - **Última actualización:** [Fecha]
-- **Estado:** Prototipo final
+- **Estado:** Prototipo básico (Incluye el sensor de humedad)
 
 ---
 
