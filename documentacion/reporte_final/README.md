@@ -16,6 +16,8 @@
 
 ---
 
+***https://docs.google.com/document/d/1zgG6Hz37QAMIxcKJqAfP9yTi-u8HlpMJ1BBnRhSpd0Y/edit?tab=t.0***
+
 ## Estructura Sugerida
 
 ### Portada (1 página)
