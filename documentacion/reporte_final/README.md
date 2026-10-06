@@ -17,6 +17,7 @@
 ---
 
 ***https://docs.google.com/document/d/1zgG6Hz37QAMIxcKJqAfP9yTi-u8HlpMJ1BBnRhSpd0Y/edit?tab=t.0***
+link al documento que realizaremos el informe
 
 ## Estructura Sugerida
 
